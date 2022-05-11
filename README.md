@@ -1,6 +1,7 @@
 # For_Lumissil
 
 IS31FL3741A EVB: 
+
 a)  Arduino 5V pin to IS31FL3741A EVB PVCC. 
 
 b)  Arduino GND to IS31FL3741A EVB GND. 
