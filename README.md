@@ -13,3 +13,8 @@ e)  If Arduino use 3.3V MCU VCC, connect.
 
 3.3V to IS31FL3741A EVB SDB, if Arduino use 5.0V MCU VCC, connect 5.0V to EVB SDB. 
 (Arduino UNO MCU VCC is 5V, so SDB can be 5V or 3.3V) 
+
+
+
+
+Ref: http://www.lumissil.com/products/led-driver/fxled
